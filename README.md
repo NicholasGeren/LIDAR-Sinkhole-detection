@@ -54,12 +54,12 @@ Edit the `JUPYTER_CONFIG` block at the top of `sinkhole_detect.py`:
 JUPYTER_CONFIG = {
     'input_file':         'your_dem.tif',   # Path to your DEM GeoTIFF
     'output_dir':         'results/',
-    'min_sinkhole_depth': 0.5,
-    'max_sinkhole_depth': 10.0,
-    'min_area':           45,
-    'min_circularity':    0.5,
-    'max_axis_ratio':     2.5,
-    'gaussian_sigma':     1.0,
+    'min_sinkhole_depth': 15,
+    'max_sinkhole_depth': 100,
+    'min_area':           10,
+    'min_circularity':    0.4,
+    'max_axis_ratio':     4.5,
+    'gaussian_sigma':     0.7,
 }
 ```
 
