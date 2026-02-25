@@ -188,4 +188,4 @@ MIT License — free to use, modify, and distribute with attribution.
 
 **Nicholas Geren**
 Civil Engineering Student | Python & GIS Enthusiast
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/nicholas-geren-9b6135397/) | [GitHub](https://github.com/NicholasGeren)
