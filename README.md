@@ -78,12 +78,12 @@ python sinkhole_detect.py --input your_dem.tif --output results/
 ```
 --input       Path to input DEM GeoTIFF (required)
 --output      Output directory (default: results/)
---min-depth   Minimum depression depth in DEM units (default: 0.5)
---max-depth   Maximum depression depth in DEM units (default: 10.0)
---min-area    Minimum region area in pixels (default: 45)
---min-circ    Minimum circularity 0-1, where 1 = perfect circle (default: 0.5)
---max-axis    Maximum axis ratio, filters linear features like ditches (default: 2.5)
---sigma       Gaussian smoothing sigma, 0 = disabled (default: 1.0)
+--min-depth   Minimum depression depth in DEM units (default: 15)
+--max-depth   Maximum depression depth in DEM units (default: 100.0)
+--min-area    Minimum region area in pixels (default: 10)
+--min-circ    Minimum circularity 0-1, where 1 = perfect circle (default: 0.4)
+--max-axis    Maximum axis ratio, filters linear features like ditches (default: 4.5)
+--sigma       Gaussian smoothing sigma, 0 = disabled (default: 0.7)
 ```
 
 **Example with custom parameters:**
@@ -185,6 +185,6 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## Author
 
-**Your Name**
-Civil Engineer | Python & GIS Enthusiast
+**Nicholas Geren**
+Civil Engineering Student | Python & GIS Enthusiast
 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/YOUR-USERNAME)
