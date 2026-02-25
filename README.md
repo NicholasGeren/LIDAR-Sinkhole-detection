@@ -109,6 +109,7 @@ The input must be a **Digital Elevation Model** — each pixel value represents 
 - [USGS 3DEP National Map](https://apps.nationalmap.gov/downloader/) — full US coverage
 - [OpenTopography](https://opentopography.org) — high-resolution research datasets
 - State GIS portals — often higher resolution than federal sources
+- QGIS is an excellent tool and it is open sourced
 
 ---
 
