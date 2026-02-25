@@ -1,6 +1,8 @@
 richdem
-numpy
 rasterio
-matplotlib.pyplot
+numpy
 scipy
-skimage
+scikit-image
+matplotlib
+geopandas
+shapely
